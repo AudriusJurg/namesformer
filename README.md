@@ -1,6 +1,7 @@
 # LLM Project - Namesformer
 
 A large language model for generating new Lithuanian names for males and females.
+[App link](https://namesformer-tc9wjupqsngjkpgnwsnjqv.streamlit.app/)
 
 # Model types
 1. All-model. Trained on all name data
